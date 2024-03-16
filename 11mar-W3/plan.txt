@@ -1,0 +1,6 @@
+Lecture : Optimization and PSO
+
+Activity: Do in this order
+1. gradient-descent Notebook (exercise)
+2. grad.py (view animation)
+3. pso Notebook (exercise : try)
